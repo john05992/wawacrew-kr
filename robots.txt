@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wawacrew.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://wawacrew.kr/sitemapx.xml
